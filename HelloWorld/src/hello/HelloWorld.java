@@ -1,3 +1,4 @@
+/* Copyright 2015 */
 package hello;
 
 public class HelloWorld {
