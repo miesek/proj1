@@ -1,4 +1,4 @@
-/* Copyright 2015 */
+/* Copyright 2015 cos tak jest */
 package  hello;
 // test nowa1
 public class HelloWorld {
