@@ -1,6 +1,6 @@
 /* Copyright 2015 cos tak jest */
 package  hello;
-// test nowa1 nowe kowe
+// test nowa1 nowe jarek1
 public class HelloWorld {
 
     public static void main(String[] args) {
